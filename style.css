@@ -17,6 +17,7 @@ body{
 .flex-blackjack-row-1, .flex-blackjack-row-2{
     background-color: rgb(4, 54, 4);
     color: #FFFF;
+    overflow: hidden;
 }
 .flex-blackjack-row-1 div{
     border: 1px solid black;
